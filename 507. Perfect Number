@@ -10,7 +10,7 @@ public:
                 if(i !=num/i){
                     sum+=num/i;
                 }
-            }
+            } 
         }
         return sum==num;
     }
